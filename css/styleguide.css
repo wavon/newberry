@@ -1,0 +1,36 @@
+// styles for colors
+
+body {
+  margin: 30px;
+}
+
+#colors {
+  margin: 30px;
+  max-width: 1020px;
+}
+
+.stylegroup {
+  margin-top: 20px;
+}
+
+.swatch {
+  display: inline-block;
+  list-style-type: none;
+  width: 200px;
+  height: 100px;
+  margin-left: 0;
+  margin-right: 20px;
+  padding: 10px;
+  color: white;
+}
+
+/* reset base styles */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  vertical-align: top;
+  margin: 0 0 20px;
+}
